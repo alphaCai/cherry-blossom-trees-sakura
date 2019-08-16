@@ -7,3 +7,4 @@ To draw a cherry blossom tree with turtle，if you have any idea，welcome to mo
 
 本文改编者author：alphaCai(from github)
 '''
+![image](https://github.com/alphaCai/cherry-blossom-trees-sakura/blob/master/image/1.PNG)
